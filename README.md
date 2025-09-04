@@ -36,13 +36,14 @@ I'm a **Flutter Developer** and **Aspiring Full-Stack Engineer** passionate abou
 <div align="center">
 
 ### **Primary Stack**
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,csharp&theme=light" />
+<img src="https://skillicons.dev/icons?i=flutter,firebase,react,html,css&theme=light" />
 
 ### **Programming Languages**
-<img src="https://skillicons.dev/icons?i=python,java,cpp,cs&theme=light" />
+<img src="https://skillicons.dev/icons?i=dart,python,java,cpp,cs&theme=light" />
 
 ### **Development Tools**
-<img src="https://skillicons.dev/icons?i=postman,git,github,mysql,figma&theme=light" />
+<img src="https://skillicons.dev/icons?i=postman,git,github,mysql,figma,vscode,androidstudio&theme=light" />
+
 
 </div>
 
@@ -59,41 +60,14 @@ I'm a **Flutter Developer** and **Aspiring Full-Stack Engineer** passionate abou
 
 ## 🌟 Current Focus
 
-<table align="center">
-  <tr>
-    <td><strong>📖 Learning</strong></td>
-    <td>
-      <ul>
-        <li>Web API in ASP.NET Core</li>
-        <li>Advanced Flutter State Management</li>
-        <li>RESTful API Integration</li>
-        <li>Database Design & Optimization</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>📈 Building</strong></td>
-    <td>
-      <ul>
-        <li>ERP Flutter Project (Full System)</li>
-        <li>AI Chatbot with Flutter + Free AI APIs</li>
-        <li>Cross-platform Notes App with Firebase</li>
-        <li>Personal Developer Portfolio</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🚀 Goals</strong></td>
-    <td>
-      <ul>
-        <li>Master Full-Stack Development</li>
-        <li>Contribute to Open Source Projects</li>
-        <li>Build Scalable Mobile Applications</li>
-        <li>Share Knowledge with Community</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| 📖 **Learning** | 📈 **Building** | 🚀 **Goals** |
+|:---|:---|:---|
+| - Web API in **ASP.NET Core** <br> - Advanced **Flutter State Management** <br> - **RESTful API** Integration <br> - Database **Design & Optimization** | - **ERP Flutter Project** (Full System) <br> - **AI Chatbot** with Flutter + Free AI APIs <br> - Cross-platform **Notes App** with Firebase <br> - Personal **Developer Portfolio** | - Master **Full-Stack Development** <br> - Contribute to **Open Source** Projects <br> - Build **Scalable Mobile Apps** <br> - Share **Knowledge** with Community |
+
+</div>
+
 
 ---
 
@@ -140,11 +114,11 @@ graph LR
 
 <div align="center">
 
-| 🚀 **ERP Flutter System** | 🤖 **AI Chatbot App** | 📝 **Smart Notes App** |
+| 🧑‍💻 **Digital Doppelgänger** | ⏳ **Time Capsule App** | ✅ **TickTickr App** |
 |:---:|:---:|:---:|
-| Complete ERP solution with Flutter frontend and API backend | Intelligent assistant built with Flutter and Free AI APIs | Cross-platform notes app with Firebase real-time sync |
-| `Flutter` `Dart` `API Integration` | `Flutter` `AI APIs` `Firebase` | `Flutter` `Firebase` `Cloud Storage` |
-| 🚧 **In Progress** | ✅ **Completed** | ✅ **Completed** |
+| Create your AI-powered **digital twin** that learns from your data and mimics your personality | Save memories, notes, and media to be unlocked in the **future** | Smart **to-do & notes app** with local notifications |
+| `Flutter` `AI APIs` `Firebase` | `Flutter` `Hive` `Encryption` | `Flutter` `Local Notifications` `Hive` |
+| ✅ **Completed**  |✅ **Completed**  | ✅ **Completed** |
 
 </div>
 
